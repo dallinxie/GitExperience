@@ -1,2 +1,3 @@
 Git 操作流程实验说明
 1,Dallin   ,新建 Index.txt
+2,Dallin   ,在Index.txt 移入暂存区后，更改Index.txt 
